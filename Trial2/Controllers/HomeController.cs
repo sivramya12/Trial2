@@ -10,7 +10,7 @@ namespace Trial2.Controllers
     {
         public ActionResult Index()
         {
-            int x, y;
+            int x, y, z;
             return View();
         }
 
